@@ -20,6 +20,10 @@ This board is one of the only Z690 boards worth buying, since most of them eithe
 This memory is a well-binned B-die kit, which should be able to OC well. I managed to get it for £50 on eBay, which is significantly cheaper than it usually costs.
 
 
-# Overclocking
+# Memory Overclocking
 
-## Liquid Freezer II 280mm Testing
+Data not added yet.
+
+# CPU Overclocking
+
+Data not added yet.
