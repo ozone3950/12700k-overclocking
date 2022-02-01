@@ -6,6 +6,8 @@ The 12700K is an amazing chip - £360 or so with amazing gaming performance and 
 
 In this repo, I will be CPU and memory overclocking, and testing on different coolers, since I am planning to custom loop in the future. The results will also be on my [HWBOT profile](https://hwbot.org/user/ozone_3950/).
 
+![IMG_20220109_161736](https://user-images.githubusercontent.com/91910634/152011475-1678cf3f-a2fd-408a-b2d5-892925c9611e.jpg)
+
 
 ## The Setup
 
